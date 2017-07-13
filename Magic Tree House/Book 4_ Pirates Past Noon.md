@@ -92,5 +92,5 @@ clutch★★☆☆☆
 1[VERB 动词] (通常因害怕或担心)紧握，紧抓；If you clutch at something or clutch something, you hold it tightly, usually because you are afraid or anxious. [V at n] [V n]
 
 He clutched the medallion as he and Annie took off through the wet, sunny woods.
-!()[https://static.sportskeeda.com/wp-content/uploads/2017/06/265_raw_06052017rf_5269-a0aeb9564b0e9387b870f452653de88a-1496750752-800.jpg]
+![](https://static.sportskeeda.com/wp-content/uploads/2017/06/265_raw_06052017rf_5269-a0aeb9564b0e9387b870f452653de88a-1496750752-800.jpg)
 

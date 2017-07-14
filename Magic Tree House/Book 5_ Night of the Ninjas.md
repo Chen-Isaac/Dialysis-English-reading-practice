@@ -59,7 +59,7 @@ A mat is a small piece of carpet or other thick material which is put on the flo
 
 In the flickering light Jack saw a dark figure sitting on a woven mat.
 
-
+![](https://thumbs.dreamstime.com/z/woven-mat-26429557.jpg)
 
 VERB 用带子系(或绑、捆、扎) 
 If you strap something somewhere, you fasten it there with a strap.

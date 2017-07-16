@@ -10,7 +10,7 @@ If you scatter things over an area, you throw or drop them so that they spread a
 
 Books were scattered everywhere.
 
-
+![](https://www.fema.gov/media-library-data/1410456755583-c04cbb8bd95e6466874c831929af12b8/Napa_CA_Earthquake_V0A6980_medium.jpg)
 
 N-COUNT 魔法;妖术 
 A spell is a situation in which events are controlled by a magical power.
@@ -40,18 +40,22 @@ If a person or animal darts somewhere, they move there suddenly and quickly.
 
 The short ninjas darted down the ladder.
 
+![](https://static.comicvine.com/uploads/original/12/123441/3533263-kurabara+ability+dimension+cutting+spirit+sword+vol+16+%286%29.jpg)
 
 N-UNCOUNT 暮光 
 Twilight is the small amount of light that there is outside just after the sun has gone down.
 
 He led them through the twilight.
 
+![](https://aerialhorizon.files.wordpress.com/2016/04/moonrise-through-the-twilight.jpg)
 
 
 VERB 散布于;星罗棋布于;遍布 
 When things dot a place or an area, they are scattered or spread all over it.
 
 Dark rocks dotted the side of the mountain.
+
+![](https://s-media-cache-ak0.pinimg.com/736x/d5/b6/6b/d5b66beed89914298ba1d73640e96434--polka-dot-patterns-black-white-art.jpg)
 
 
 N-COUNT 地毯;地垫;地席 
@@ -66,7 +70,7 @@ If you strap something somewhere, you fasten it there with a strap.
 
 The master strapped on his sword.
 
-
+![](https://bottega.avalonceltic.com/rep_immagini/prod/cintura_porta_spada_nera.jpg)
 
 N-COUNT （外衣的）风帽，兜帽 
 A hood is a part of a coat which you can pull up to cover your head. It is in the shape of a triangular bag attached to the neck of the coat at the back.
@@ -81,6 +85,8 @@ If you tap something, you hit it with a quick light blow or a series of quick li
 
 Annie tapped Jack on the shoulder.
 
+![](https://robnipulations.files.wordpress.com/2010/12/053108_twilight2-php.jpg)
+
 [N-VAR 可变名词] 水草;水生植物；Weed is a plant that grows in water and usually forms a thick floating mass. There are many different kinds of weed.
 
 ![](http://www.paludarium.net/uploads/4/4/1/8/4418601/9243423_orig.jpg)
@@ -88,6 +94,8 @@ Annie tapped Jack on the shoulder.
 [VERB 动词] 步子小而轻地奔跑，疾走;蹦蹦跳跳；When people or small animals scamper somewhere, they move there quickly with small, light steps. [V prep/adv]
 
 The mouse scampered away.
+
+![](http://i.dailymail.co.uk/i/pix/2015/11/11/15/2E55879800000578-0-image-a-37_1447254463243.jpg)
 
 stream★★★☆☆
 1[N-COUNT 可数名词] 小河;溪；A stream is a small narrow river.
@@ -102,6 +110,7 @@ swing★★★☆☆
 
 Then he swung silently down the rope ladder.
 
+![](http://photos4.meetupstatic.com/photos/event/a/d/3/5/600_443204341.jpeg)
 
 pouch★☆☆☆☆
 1[N-COUNT 可数名词] 小袋子；荷包；A pouch is a flexible container like a small bag.
@@ -113,3 +122,4 @@ bump★★☆☆☆
 
 Her hand bumped his. He took it.
 
+![](http://i.dailymail.co.uk/i/pix/2008/05/29/article-1022718-01693FA600000578-136_468x313.jpg)

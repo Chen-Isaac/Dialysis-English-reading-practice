@@ -18,12 +18,16 @@ yikes
 英 [jaɪks]   美 [jaɪks]   
 int. 
 <口>（表示惊讶）呀！； 
+
+![](https://media.tenor.com/images/2a8427aebc0bf27addad6fb1e24c1121/tenor.gif)
  
 
 ADJ-GRADED 阴森可怖的;闹鬼似的 
 A place that is spooky has a frightening atmosphere, and makes you feel that there are ghosts around.
 
 It was the spookiest place he had ever seen.
+
+![](https://uproxx.files.wordpress.com/2016/10/spooky-house-feat-uproxx.jpg?quality=100&w=650)
 
 
 N-SING 阴暗；昏暗 
@@ -50,6 +54,8 @@ But the monkey only waved his arms and screeched again.
 4[V-ERG 及物/不及物动词] 使来回摆动;使左右摇晃；When something rocks or when you rock it, it moves slowly and regularly backwards and forwards or from side to side. [V prep/adv] [V n] [Also V]
 
 The canoe rocked. Annie almost fell out.
+
+![](http://www.andrewlinn.com/2007/070801_canoe/08over.jpg)
 
 jaguar
 1[N-COUNT 可数名词] 美洲豹；美洲虎；A jaguar is a large animal of the cat family with dark spots on its back.

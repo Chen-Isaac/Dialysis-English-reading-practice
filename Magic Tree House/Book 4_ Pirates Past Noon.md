@@ -10,12 +10,15 @@ In AM, use 美国英语用 cozy
 
 It's not very cozy today.
 
+![](http://mintmag.ie/wp-content/uploads/2014/11/cosy-620x350.png)
+
 
 squawk
 1[VERB 动词] 鸟发出响亮而粗厉的叫声；When a bird squawks, it makes a loud harsh noise. [V]
 
 the parrot squawked again.
 
+![](http://images6.fanpop.com/image/photos/32000000/SQUAWK-angry-birds-32080600-500-281.jpg)
 
 shrug★★☆☆☆
 1[VERB 动词] 耸肩(表示不感兴趣、不知道或不在乎)；If you shrug, you raise your shoulders to show that you are not interested in something or that you do not know or care about something. [V] [V n]
@@ -23,20 +26,28 @@ shrug★★☆☆☆
 "Your boots, Annie," called Jack.
 She shrugged."They'll dry out,"she said.
 
+![](http://www.onegoodshare.com/wp-content/uploads/donald-trump-shrug-1024x551.jpg)
+
 
 snatch★★☆☆☆
 1[VERB 动词] 一把抓住;迅速地夺取；If you snatch something or snatch at something, you take it or pull it away quickly. [V n prep] [V n with adv] [V at n]
 
 It was his glasses. He snatched them up.
 
+![](http://thejeanscapades.weebly.com/uploads/4/0/4/2/40428413/9877986_orig.jpg)
+
 
 2[VERB 动词] 吐唾沫(常表示憎恨或轻蔑)；If someone spits, they force an amount of liquid out of their mouth, often to show hatred or contempt. [V] [V prep]
 
 "Aghh, books," growled Cap'n Bones. He spit on the sand. "I want gold, you dogs!"
 
+![](https://i.ytimg.com/vi/hNXkLB_ewc8/hqdefault.jpg)
+
 [VERB 动词] 人发出低沉的怒吼，咆哮；If someone growls something, they say something in a low, rough, and angry voice. [V n] [V with quote] [WRITTEN 笔语]
 
 "Tell old Bones where the rest is,"he growled."Or prepare to meet thy doom."
+
+![](https://cdn.kentamplinvocalacademy.com/wp-content/uploads/2016/02/Vocal-Fry-Scream-Growl-Distortion.jpg)
 
 whale★★☆☆☆
 1[N-COUNT 可数名词] 鲸；
@@ -44,7 +55,7 @@ Whales are very large mammals that live in the sea. » see:See also
 »see:亦 killer whale
 ; » see:sperm whale
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg)
+![](https://ichef-1.bbci.co.uk/news/660/cpsprodpb/115CA/production/_90741117_0bebad60-b644-409a-83cb-5cd96a539a4c.jpg)
 
 
 cabin★★☆☆☆
@@ -70,7 +81,11 @@ You'll see a gale if I don't get me gold today, by thunder!
 scowl★☆☆☆☆
 1[VERB 动词] 作怒容;沉下脸;绷着脸；When someone scowls, an angry or hostile expression appears on their face. [V] [V at n]
 
+![](http://static.deathandtaxesmag.com/uploads/2011/01/Cheney-Scowl-585x400.jpg)
+
 [VERB 动词] (液体)滴出，滴下；When something drips, drops of liquid fall from it. [V] [V with n] [V n]
+
+![](http://www.smarttouchinteractive.com/wp-content/uploads/2011/07/drip-email.jpg)
 
 [VERB 动词] 坐在…边缘；坐在…顶端；If you perch on something, you sit down lightly on the very edge or tip of it. [V prep/adv] [V pron-refl prep/adv]
 

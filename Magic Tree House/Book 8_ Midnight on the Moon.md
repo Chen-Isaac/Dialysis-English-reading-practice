@@ -178,10 +178,85 @@ A moment later, Annie rolled Jack onto his back.
 
 ![](http://www.boardingkennels.org/uploads/kennels/4773guest473.jpg)
 
-p29
+A jet pack, rocket belt or rocket pack is a device, usually worn on the back, which uses jets of gas (or in some cases liquid) to propel the wearer through the air.
 
+![](https://cdn.thisiswhyimbroke.com/images/water-jetpack1-640x533.jpg)
 
+slid
 
+Past tense and past participle of slide
+slide的过去式和过去分词
 
+slide★★★☆☆
+1[V-ERG 及物/不及物动词] 滑动;溜；When something slides somewhere or when you slide it there, it moves there smoothly over or against something. [V n with adj] [V n prep/adv] [V prep/adv] [Also V]
 
+Annie pushed a button beside the huge door. It slid open.
 
+![](http://www.blitzmedia.co.uk/wp-content/uploads/2013/09/DMEU_FE071T57031.gif)
+
+heel★★☆☆☆
+1[N-COUNT 可数名词] 足跟;脚后跟;踵；Your heel is the back part of your foot, just below your ankle.
+
+He sighed, then sat back on his heels.
+
+![](http://manflowyoga.com/wp-content/uploads/2016/06/DSC_4489.jpg)
+
+scurry★☆☆☆☆
+1[VERB 动词] (尤指受惊吓时)急奔，乱窜；When people or small animals scurry somewhere, they move there quickly and hurriedly, especially because they are frightened. [V prep/adv] [WRITTEN 笔语]
+
+Peanut jumped out of Annie's arms and scurried back to the letter M.
+
+![](https://static1.squarespace.com/static/569c45c305f8e2b24da78673/t/571dd74a60b5e99d45a97d45/1461573471684/)
+
+whirl★☆☆☆☆
+1[V-ERG 及物/不及物动词] 使回旋;使旋转；If something or someone whirls around or if you whirl them around, they move around or turn around very quickly. [V adv/prep] [V n adv/prep] [V] [Also V n]
+
+The brightness was blinding and whirling.
+
+![](http://www.publicdomainpictures.net/pictures/40000/velka/whirl.jpg)
+
+constellation★☆☆☆☆
+1[N-COUNT 可数名词] 星座；A constellation is a group of stars which form a pattern and have a name.
+
+He drew a constellation of a mouse!
+
+![](https://s-media-cache-ak0.pinimg.com/736x/bf/33/60/bf3360921ec7f4fd77c6bb78105dd5f8--constellation-map-star-constellations.jpg)
+
+[VERB 动词] 嗤之以鼻地表示;轻蔑地说；You can use sniff to indicate that someone says something in a way that shows their disapproval or contempt. [V with quote]
+
+Morgan sniffed. "He's not that great," she said.
+
+![](http://www.tampabay.com/resources/images/dti/rendered/2016/09/trumpsniff_18061733_8col.jpg)
+
+owl★★☆☆☆
+1[N-COUNT 可数名词] See also:night owl; 猫头鹰；鸮；An owl is a bird with a flat face, large eyes, and a small sharp beak. Most owls obtain their food by hunting small animals at night.
+
+An owl hooted.
+
+![](http://dreamstop.com/wp-content/uploads/2016/08/owl-dreams.jpg)
+
+tug★★☆☆☆
+1[VERB 动词] 使劲拉;拽；If you tug something or tug at it, you give it a quick and usually strong pull. [V at n] [V n] [Also V]
+
+Morgan tugged on one of Annie's braids.
+
+![](https://mrsbauc.files.wordpress.com/2014/03/savedpicture-20143714710.jpg?w=700)
+
+scoff★☆☆☆☆
+1[VERB 动词] 嘲笑;讥讽;嘲弄；If you scoff at something, you speak about it in a way that shows you think it is ridiculous or inadequate. [V at n] [V] [V with quote]
+
+Jack scoffed. "What makes you say that?"
+
+![](http://www.wnd.com/files/2015/07/Trump_scoffs.jpg)
+
+tiptoe★☆☆☆☆
+1[VERB 动词] 踮起脚走;蹑手蹑脚地走；If you tiptoe somewhere, you walk there very quietly without putting your heels on the floor when you walk. [V prep/adv] [Also V]
+
+Annie tiptoed inside the house.
+
+![](http://www.springercreative.com/uploads/preview/Tiptoe.gif)
+
+piranha
+1[N-COUNT 可数名词] 水虎鱼；食人鲳；A piranha is a small, fierce fish which is found in South America.
+
+![](http://indianapublicmedia.org/poetsweave/files/2013/07/2013-frank-montesonti-1_piranha.jpg)

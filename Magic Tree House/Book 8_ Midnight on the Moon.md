@@ -120,7 +120,67 @@ Jack groaned. Looking for anything on this wild ride was impossible.
 
 ![](https://scottpilgrim67.files.wordpress.com/2016/09/cropped-paris_tuileries_garden_facepalm_statue.jpg?w=1108)
 
-p36 "oh,man"
+
+hop out 
+
+英 [hɔp aut]   美 [hɑp aʊt]   
+
+释义 
+[体]后摆； 跳下； 
+
+1. get out of quickly;
+
+She pressed a button that said OFF. Then she and Jack hopped out.
+
+![](http://www.poppinmedia.com/images/videothumbs/24641.jpg)
+
+ADJ-GRADED 头晕目眩的;眩晕的 
+If you feel dizzy, you feel that you are losing your balance and are about to fall.
+
+Thinking of "forever" made Jack feel dizzy.
+
+![](http://similesmiles.com/simages/dizzy.png)
+
+
+PHRASAL VERB-ERG 打翻;翻倒 
+If you tip something over or if it tips over, it falls over or turns over.
+
+More than once the buggy nearly tipped over.
+
+![](http://cdn.c.photoshelter.com/img-get2/I0000vZPeZHIOe7Q/fit=1000x750/01915.jpg)
+
+
+leaping step
+
+跃步
+
+VERB 纵身；跳；跃 
+If you leap, you jump high in the air or jump a long distance.
+
+"One, two, three--go!"She shouted, and took giant,leaping steps toward the meteorite.
+
+![](http://www.sixstepscreening.org/wp-content/uploads/IMG_13761.jpg)
+
+ 
+
+ADJ-GRADED 庞大的；笨重的 
+Something that is bulky is large and heavy. Bulky things are often difficult to move or deal with
+
+Jack tried to stand. But his suit was too bulky. He tried to roll over. But his suit made even that impossible.
+
+![](http://i.dailymail.co.uk/i/pix/2013/07/02/article-2353436-1A9A3267000005DC-373_634x670.jpg)
+
+
+V-ERG (使)滚;(使)滚动 
+When something rolls or when you roll it, it moves along a surface, turning over many times.
+
+A moment later, Annie rolled Jack onto his back.
+
+![](http://www.boardingkennels.org/uploads/kennels/4773guest473.jpg)
+
+p29
+
+
 
 
 

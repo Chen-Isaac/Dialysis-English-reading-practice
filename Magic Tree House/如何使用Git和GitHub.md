@@ -1,0 +1,140 @@
+###前言
+
+使用Git和GitHub已经个把月了，基础的操作基本上都熟悉了。过程中也查阅了很多资料，其中优达学城的视频讲解估计是我目前见到的最系统的，下面我把这些基础的知识点做一下归纳总结，以供参考。
+
+在具体的介绍之前，首先说一下Git和GitHub之间的区别。用一句简要的话来归纳，就是：**Git,itself,being the version control tool that Github is built on.**具体来说，就是Git是一个位于你计算机本地的版本控制工具，而GitHub就是基于Git构建的一个云端，那里是我们与他人协作与分享的一个场所。
+
+###Git
+
+我们先来了解一下Git这个版本控制工具。
+
+在具体介绍Git的用法之前，我们先来考虑一下这么一个问题，为什么需要这么一个版本控制工具呢？引入版本控制工具有什么好处？版本工具有很多，Git和其他工具的差别又在哪里？
+
+1. 版本控制工具的必要性
+
+	首先，基于日常计算机的使用，我想我们很容易达成一个共识，那就是对工作作业过程中文件的老版本进行备份是非常必要的。因为我们很可能遇到这么一个问题，以编程举例，比如之前老版本的程序功能基本已经运作正常，在这个基础上新增一些功能，或者修复之前的某个bug，结果操作之后，新的一版软件出现了一些新的很奇怪的问题，bug没有找到，或者对这次修改或者新功能构建的逻辑不满意，希望重头来过。这个时候，我们就会很希望可以回到本次作业之前的那个好的版本，再次进行操作。因此，早期我们在编程的时候，乃至于编辑word文档的时候，会经常在不同的阶段保存一个副本，这种恐怕是最原始的版本管理方法了。
+	
+	由此可见，**恢复到之前某个特定版本的内容，是版本控制工具的核心诉求**。
+	
+2. 版本对照功能
+
+	除了恢复到之前某个特定版本的内容，版本控制工具最好还应该具备不同版本之前的比较功能。
+	
+	让我们回到之前描述的那个场景，你之前编写的一个程序版本，运行成功了，但是当后来更新一版之后，你发现程序运行出现了bug。这个时候你会怎么办？可能绝大多数人的直觉反应，就是将程序更改前后的两份代码放在两个窗口中进行对比，用肉眼查看是哪里出现了问题，对吧？如果你写的只是十来行代码的小程序，那么这种方法还算是可行的。但是如果你作业的代码是上千行乃至上万行，而且你版本上更改的地方又比较多，那这种查找bug的方式一定会让你精疲力竭。
+	
+	这时候，如果有一个工具可以将两个版本的文件进行自动对比，标注其不同之处，那对于编程者查找bug而言真是一个福音。
+	
+	其实，我们的操作系统就已经自带了工具来对不同的文件进行比较检索。
+	
+	在windows系统下，可以在命令提示符（command prompt）中使用FC命令，来对不同的文件进行比较。FC，即是file compare的缩写。使用方法：利用cd指令进入文件所在目录，然后输入命令`FC 文件名1 文件名2`。
+	
+	下图是一个使用FC指令，查看新旧两个game.js文件差异的例子：
+	
+	![](http://ww1.sinaimg.cn/large/6ab8b972gy1fg9jpik45gj20il0k0dgb.jpg)
+	
+	如果使用的是Mac，可以在terminal中使用diff指令来实现相同的功能。diff表示差别，是difference的缩写。使用方法：利用cd进入文件所在目录，然后输入命令`diff -u 文件名1 文件名2`，其中-u表示unified diff format（标准区别格式），这个参数可以使输出内容更易阅读。
+	
+	下图是使用diff语句，查看之前新旧两个game.js文件差异的例子，仅供参考：
+	![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhofdlbirdj21ey0xk0zi.jpg)
+	
+	相比之下，还是diff的处理方式要直观得多。
+	
+	如果一个版本控制工具能够同时满足恢复先前版本的核心诉求，同时又能够提供各不同版本之间的对照功能，那可想而知对我们的日常工作会有多么大的帮助。
+	
+	Git就是这么一个出色的版本控制工具，而且它拥有上述以外更多丰富的功能。下面我们一一来介绍。
+	
+3. Git的初始化配置
+
+	在正式介绍Git的使用以及指令之前，我们先来看看Git的配置。
+	
+	俗话说，工欲善其事，必先利其器。好的工具，能够拥有事半功倍的效率；好的配置，则更是让好工具如虎添翼。
+	
+	以下所做的配置，主要是为了实现以下几个功能：
+	
+	- 文件被修改但是尚未commit的情况下，在末尾的id处有\*提示
+	
+	- 按tab可以自动补齐未完成的git指令
+
+	- 配置Git来使用sublime作为commit消息等的编辑器。
+	
+	我们首先先来说一下，在 Windows操作系统中，应当如何设置你的工作空间，实现上述的功能。
+	
+	1. 先上网搜索下载Git for Windows Setup.
+
+	2. Git bash的背景颜色修改：Git bash窗口的上方，右键，选中options，在弹出窗口的左侧选择Looks，右侧colors单词下方点击background修改背景颜色，foreground改指令文字颜色。这一步可以根据个人的喜好。
+	![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbvrm5sggj20os09dwff.jpg)
+
+	3. [在此处](https://www.udacity.com/api/nodes/3341718587/supplemental_media/bash-profile-course/download?_ga=1.37232743.672083044.1467344711)下载文件.bash\_profile\_course,将其移动到你的主目录中，然后重命名为.bash\_profile；将[此文件](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh)保存在你的主目录中，文件重命名为 git-prompt.sh，用于启用prompt中的git功能；
+将[此文件](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash)保存在你的主目录中，文件重命名为git-completion.bash，用于启用tab自动填充功能。
+
+		打开文件.bash\_profile进行查看，可以大概了解配置的具体状况。
+		
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fge9f8t6pqj20i60eut9f.jpg)
+
+		文本中的第2行意为加载git-completion.bash，启用tab自动填充功能；第5-8行定义了一些颜色，本来会用于第16行Git提示信息的颜色设置。原16行prompt的提示信息设置，会将用户名显示为紫色，检出的commit及其他Git相关的内容显示为绿色，当前所在目录后面跟个美元符号显示为蓝色，再之后的所有内容显示为默认颜色（reset）。但是由于我认为Git bash默认的提示信息颜色设置还不错，所以我在原来的第16行前加入\#予以屏蔽；第11行意为加载git-prompt.sh文件，这对于在你的提示符（prompt）中显示与git相关的内容是非常必要的；第12行表示如果你在Git代码库中更改了任意文件的内容，提示信息将会显示一个星号；第18行，为sublime程序路径设置一个subl的别名，方便今后在Git中启动sublime。添加内容为：alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"。
+		
+		关闭文件.bash\_profile并再次打开Git bash，以上配置才会生效。
+		
+	4. 下载Sublime，配置Git来使用Sublime作为commit消息等的编辑器。方法：在Git bash中运行命令git config --global core.editor "'C:/Program Files/Sublime Text 3/sublime_text.exe' -n -w"，其中-n表示sublime将在新窗口中打开，-w表示Git将等待你关闭Sublime然后再继续后续的操作，‘’中是sublime程序所在的路径，请视各自安装情况填写。
+
+		之后在Git Bash中敲入Sublime的完整路径，即可启动Sublime。
+		
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fge9n8fd7jj20gi095aa6.jpg)
+	
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fge9860ywkj20yr0exgmk.jpg)
+
+		由于在git-completion.bash中的第18行，对Sublime的完整路径做过别名处理，因此之后如果想在Git中用Sublime打开某个文件，只需要在Git bash中运行指令subl+文件名即可。
+		
+		譬如，如果想用Sublime查看文件.bash_profile，可以运行指令：subl .bash\_profile
+		
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgea4sjb9ej20yf0euq45.jpg)
+		
+在Mac下，可以通过类似的方式来实现：
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1fggkgiejmsj31kw0nf1ky.jpg)
+另，要想了解Mac中应用程序的内部文件结构，可以在Applications下的应用程序上，按右键，在弹出菜单上左键点击Show Package Contents,你就会了解为什么完整的路径是/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl。
+但是这样操作太麻烦了，可以用sublime打开bash配置文件添加一行内容，作为打开sublime的快捷方式。
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpnrndd1qj216q0omwrd.jpg)
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpns2afxfj21lm0o8aiu.jpg)
+
+
+然后，再允许两个git配置命令
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+
+
+配置完成后，如果之前更改了文件内容，保存好但是没有及时commit，git bash的ID处就会出现星号
+我们来试试看，先输入指令vim game.js
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg6rwby8nj20gf08z74d.jpg)
+回车后，会在git bash中打开game.js文件
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg6v861qxj20gf096dga.jpg)
+输入o，表示会在当前行之后插入一行（这里是在第一行后插入一行）
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg6yo8w3yj20gh093aac.jpg)
+按esc键，结束插入
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg71mnjxzj20gh0910t0.jpg)
+输入:wq，再按回车，保存文档修改并退出。
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg761xajwj20gh093dg9.jpg)
+回车之后你会发现，之前的id后会出现星号，表示这个修改尚未被commit
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg78yc2abj20gj095dg5.jpg)
+重新输入vim game.js，打开文档，输入dd，按回车后，当前行将被删除。再输入:wq，再按回车，保存文档修改并退出。
+文档恢复到了之前的状态，同时我们也发现，之前id后的星号也随之消失了。
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg7f4pf5mj20gh094t93.jpg)
+
+我们再来看一看tab自动补全功能
+我先输入git -l
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg8odpfd7j20gg0900sy.jpg)
+然后再敲入1次tab，没有反应，再敲入1次tab，git会将可能匹配的指令推荐给我。这里就推荐给了我git lfs和git log两条指令。
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgg8rajgoyj20gi0933yo.jpg)
+如果输入git lo再输入tab，系统就会自动补齐为git log了。
+
+
+
+
+[参考资料：Vim命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)
+	
+	
+	
+	
+
+	
+	

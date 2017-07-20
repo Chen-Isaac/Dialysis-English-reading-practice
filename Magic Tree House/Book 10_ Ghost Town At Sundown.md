@@ -12,8 +12,6 @@ A prairie is a large area of flat, grassy land in North America. Prairies have v
 On the cover was a picture of a western town on a prairie.
 
 ![](http://www.konza.ksu.edu/images/image001.jpg)
-
-
  
 
 N-COUNT 小河;小溪 
@@ -23,7 +21,80 @@ When the creek dried up, everyone left.
 
 ![](http://islandnature.ca/wp-content/uploads/2012/11/rosewall_creek_falls2.jpg)
 
-p7
+sneeze★☆☆☆☆
+1[VERB 动词] 打喷嚏；When you sneeze, you suddenly take in your breath and then blow it down your nose noisily without being able to stop yourself, for example because you have a cold. [V] [V-ing]
+
+Jack blow on his hat. A cloud of dust rose up. Jack sneezed.
+
+![](https://ichef-1.bbci.co.uk/news/660/media/images/68531000/jpg/_68531683_sneese464.jpg)
+
+scorpion
+1[N-COUNT 可数名词] 蝎子；A scorpion is a small creature which looks like a large insect. Scorpions have a long curved tail, and some of them are poisonous.
+
+"Checking for scorpions," Jack said.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Female_Emperor_Scorpion.jpg/1200px-Female_Emperor_Scorpion.jpg)
+
+whinny
+1[VERB 动词] 马嘶鸣；When a horse whinnies, it makes a series of high-pitched sounds, usually not very loudly. [V]
+
+Just then a loud whinny split the air. Jack saw a beautiful horse rear up.
+
+![](http://i.dailymail.co.uk/i/pix/2008/12/16/article-1095249-02D18057000005DC-963_468x313.jpg)
+
+colt
+1[N-COUNT 可数名词] 雄性小马驹；A colt is a young male horse.
+
+"It's the colt!" said Annie. "He's looking for his mother!"
+
+![](https://images-na.ssl-images-amazon.com/images/M/MV5BZjRhNWE3YWItNDFmYy00YzQ5LWE4Y2UtNDc1MmEwNjAwODYzXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_UY1200_CR78,0,630,1200_AL_.jpg)
+
+[PHRASE 短语] 愤愤不满;生闷气；If someone huffs and puffs, they express their annoyance or dissatisfaction with a decision or situation loudly but do not do anything to change it. [Vs inflect]
+
+He huffed and puffed and pulled.
+
+![](http://orig03.deviantart.net/cf0c/f/2014/135/8/1/huffing_and_puffing_horse_by_lylade3-d7ii7a9.gif)
+
+herder
+英 ['hɜ:də]  美 [ˈhɚdɚ] 
+TOEFL  / 
+n.牧者，牧人；
+
+"I'm a mustang herder," the cowboy said.
+
+![](http://eponaquest.com/wp-content/uploads/shutterstock_3000443-2-360x239.jpg)
+
+stirrup
+1[N-COUNT 可数名词] 马蹬；Stirrups are the two metal loops which are attached to a horse's saddle by long pieces of leather. You place your feet in the stirrups when riding a horse.
+
+"Put your foot in the stirrup, Shorty. And grab my hand," said Slim.
+
+![](http://l7.alamy.com/zooms/b6b53ec10ab34ddc9f8b48c7816924c4/a-riders-boot-in-a-stirrup-on-a-horse-c3w0rj.jpg)
+
+snort★☆☆☆☆
+1[VERB 动词] (人或牲畜)喷鼻息;(人表示不赞成、可笑等)哼鼻子，嗤之以鼻；When people or animals snort, they breathe air noisily out through their noses. People sometimes snort in order to express disapproval or amusement. [V with n] [V] [oft N of n]
+
+For a moment Dusty was still. But then he snorted and began walking.
+
+![](https://qph.ec.quoracdn.net/main-qimg-5027fd09342d3dd30c80324069cc4730-c)
+
+rustler
+1[N-COUNT 可数名词] 偷牲口的贼(尤指偷牛、马和羊的人)；Rustlers are people who steal farm animals, especially cattle, horses, and sheep. [usu pl] [Mainly AM]
+
+The rustlers were on their horses now.
+
+![](http://www.hockeydb.com/ihdb/logos/ajhl--red_deer_rustlers_1970-71.gif)
+
+slip★★★★☆
+1[VERB 动词] 滑;滑倒；If you slip, you accidentally slide and lose your balance. [V]
+
+Annie slipped off Sunset.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Rodeo3b2004-12-21.jpg)
+
+p27
+
+
 
 
 

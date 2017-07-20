@@ -57,7 +57,7 @@
 
 	- 配置Git来使用sublime作为commit消息等的编辑器。
 	
-	我们首先先来说一下，在 Windows操作系统中，应当如何设置你的工作空间，实现上述的功能。
+	我们首先先来说一下，在 Windows操作系统中，应当如何设置你的工作空间，实现上述的功能。Mac下的操作类似。
 	
 	1. 先上网搜索下载Git for Windows Setup.
 
@@ -89,17 +89,34 @@
 		
 		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgea4sjb9ej20yf0euq45.jpg)
 		
-在Mac下，可以通过类似的方式来实现：
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1fggkgiejmsj31kw0nf1ky.jpg)
-另，要想了解Mac中应用程序的内部文件结构，可以在Applications下的应用程序上，按右键，在弹出菜单上左键点击Show Package Contents,你就会了解为什么完整的路径是/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl。
-但是这样操作太麻烦了，可以用sublime打开bash配置文件添加一行内容，作为打开sublime的快捷方式。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpnrndd1qj216q0omwrd.jpg)
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpns2afxfj21lm0o8aiu.jpg)
+		在Mac下，这一步的实现也是基本相近的：
+
+		![](https://ws4.sinaimg.cn/large/006tKfTcgy1fggkgiejmsj31kw0nf1ky.jpg)
+
+		值得注意的是，要想了解Mac中应用程序的内部文件结构，可以在Applications下的应用程序上，按右键，在弹出菜单上左键点击Show Package Contents,继续点击后续文件夹，你最终会发现该应用所在的文件夹位置。
+
+		以下是Sublime应用程序文件位置的查找方法：
+
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpnrndd1qj216q0omwrd.jpg)
+
+		![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhpns2afxfj21lm0o8aiu.jpg)
+
+		最终确认其位置是：Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl。之后，同样在.bash\_profile文件中为sublime程序路径设置一个subl的别名，方便后续的快捷打开。
 
 
-然后，再允许两个git配置命令
-git config --global push.default upstream
-git config --global merge.conflictstyle diff3
+	5. 配置Git push策略以及merge conflict显示策略。
+	
+		大部分情况我们想要做的只是Push当前的分支, 那么最适合的就是upstream。我们可以通过git config去配置采用upstream策略。具体的设置命令如下：
+	
+		git config --global push.default upstream
+
+		关于Git Push策略的更详细内容，可以点击[此处](http://thekaiway.com/2013/07/30/config-your-git-push-strategy/)参考。
+
+		用下面的设置来改进冲突标记使其显示（分支）共同祖先。这个设置命令新添加一部分标记||||||| 从而给冲突加入注释，这样可以看到冲突行在有问题的两个分支的共同祖先处是什么状态。比较有利于决策如何手工合并冲突。
+
+		git config --global merge.conflictstyle diff3
+
+		更详细的内容，请参考[解决 Git 冲突的 14 个建议和工具](http://blog.jobbole.com/97911/)一文。
 
 
 

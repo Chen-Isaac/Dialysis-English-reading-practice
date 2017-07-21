@@ -92,7 +92,31 @@ Annie slipped off Sunset.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Rodeo3b2004-12-21.jpg)
 
-p27
+
+VERB (因不舒服)稍稍活动;(睡醒前)挪动身体 
+If you stir, you move slightly, for example because you are uncomfortable or beginning to wake up.
+
+The horses stirred in the dark.
+
+![](http://thumb7.shutterstock.com/display_pic_with_logo/1268695/460817695/stock-photo-irish-cob-horse-on-pasture-460817695.jpg)
+
+VERB 给(马等)备鞍;给…装上马鞍 
+If you saddle a horse, you put a saddle on it so that you can ride it.
+
+While Slim saddled Dusty, Jack took out his notebook and pencil.
+
+![](http://www.tridentsaddlery.co.za/sites/default/files/saddle%20up.jpg)
+
+
+VERB 向…眨眼；使眼色 
+When you wink at someone, you look towards them and close one eye very briefly, usually as a signal that something is a joke or a secret.
+
+"I hope you'll come to Laramie and visit me," said Slim. He winked."I might be needing some help on my book."
+
+![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/49230/width668/cvr52gm8-1400733017.jpg)
+
+p33
+
 
 
 

@@ -115,7 +115,44 @@ When you wink at someone, you look towards them and close one eye very briefly, 
 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/49230/width668/cvr52gm8-1400733017.jpg)
 
-p33
+pardnerpard.ner
+AHD:[pärd“nər] 
+D.J.[ˈpɑːdnə]
+K.K.[ˈpɑrdnɚ]
+n.Regional（名词）【区域的】
+A partner, companion, or friend.
+搭档、伙伴或朋友
+
+Variant of partner
+partner的变体
+
+"So long, pardners!" he called.
+
+![](http://filmfanatic.org/reviews/wp-content/uploads/2006/09/Pardners-Poster.jpg)
+
+dedication
+1[N-COUNT 可数名词] See also:dedicate; (书等的) 题献;[戏剧、音乐作品等表演之前的)献词；A dedication is a message which is written at the beginning of a book, or a short announcement which is sometimes made before a play or piece of music is performed, as a sign of affection or respect for someone.
+
+Jack turned the page. He read the dedication:
+
+WITH THANKS TO SMILEY AND SHORTY,
+TWO STRANGERS WHO CHANGED MY LIFE
+
+![](https://image.slidesharecdn.com/mall-poetreydedicationproject-timewilltell-130524122434-phpapp01/95/mallpoetrey-dedication-projecttime-will-tell-2-638.jpg?cb=1369398314)
+
+adieu
+1[CONVENTION 惯用语] 同goodbye；Adieu means the same as goodbye . [LITERARY 文] [OLD-FASHIONED 过时]
+
+[VERB 动词] 道别、晚安等；If you bid someone farewell, you say goodbye to them. If you bid them goodnight, you say goodnight to them. [V n to n] [V n n] [Formal]
+
+Do not hasten to bid me adieu.
+
+![](https://cdn3.volusion.com/cqc59.cdmn2/v/vspfiles/photos/hl-189-adieu-4.jpg?1481704172)
+
+
+
+
+
 
 
 

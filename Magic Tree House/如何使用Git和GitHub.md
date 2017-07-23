@@ -165,8 +165,41 @@
 	   
 	   如果开始输入的是git lo，再输入tab，这时由于尽可能匹配到git log这一条指令，这时系统就会自动补齐指令为git log了。说明该功能也已配置成功。
 
+4. Git的常用指令介绍
 
+	Git的初始化配置完成后，我们可以来看一看一些常见的Git指令，一边使用，一边体会Git的强大功能。
+	
+	- git clone
+	
+	  当我们需要拷贝一个已经存在的Git repository副本的时候，我们会使用git clone指令。该指令的格式是：
+	  
+	  `git clone [url]`
+	  
+	  该指令的作用是，在当前路径下，创建相应的文件夹，并且初始化.git目录，然后从该url中拉取该repository的所有数据，并且checkout到当前最新commit的版本下。
+	  
+	  所以说不要将该指令理解成为下载最新commit的文件，事实上它的作用是是下载所有历史版本的数据记录。
+	  
+	  使用git clone之前，请先进入你想要下载文件的目录，之后使用git clone指令，会直接把代码库下载到该目录下。
+	  
+	  譬如，我要将一个asteroids工程的repository下载到桌面上。那么我就必须先进入desktop，再使用git clone指令下载整个repository。下载完毕后，再进入相应工程的目录中，这时候就可以在路径信息后看到该repository的分枝信息了。接下来就可以对该工程文件进行相应的git操作了。详细步骤请参看下图：
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgapnqz6nfj20go0begna.jpg)
 
+	- git log
+
+	  当我们想要了解该repository下详细的版本存档信息（commit），这时就可以使用git log指令对其进行详细的浏览。
+	  
+	  git log中包括了每次commit时记录的消息和相应的id号。
+
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgaq5h3xb8j20h609saae.jpg)
+	  
+	  需要注意的是，如果使用windows下的Git bash，输入git log之后，如果log记录很多，超出屏幕的大小，此时是无法通过下拉屏幕右侧的滚动条来查看超出部分的log记录的，这时应该使用下箭头来查看。按住下箭头不放，就可以继续浏览更早以前的log记录，一直到出现END字样，就是记录已经到头，全部结束了。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgaqgrtj5wj20gg0kfjsa.jpg)
+	  
+	  Mac下，如果想要退出git log查看页面，返回之前的terminal页面，可以按按键q来实现。如果是windows平台下，则git log内容和之前Git bash仍然处在同一页面，但该页面上git log内容的保留数量则取决于你查看log时用下箭头下拉涉及到的数量。
+
+	  如果想查看每次commit所更改文件的统计数据，可以使用指令：`git log --stat`。
 
 	
 	

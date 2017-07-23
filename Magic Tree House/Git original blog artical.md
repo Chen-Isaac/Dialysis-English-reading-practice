@@ -16,27 +16,14 @@
 git diff与fc,diff语句类似，只不过它不是对比两个文件，而是对比git中某个文件的不同版本间的差异。
 
 
-git log --stat
-该选项会给出每次commit所更改的文件的统计数据
-
-
-git clone： 我们不是下载实际的文件，不是来自最新commit的文件，而是下载整个历史记录。git提供了一个命令让我们可以将整个代码库从一台计算机拷贝到另一个计算机。
-git clone之前，请先进入你想要放置文件的目录，git clone会把代码库下载到该目录下。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgapnqz6nfj20go0begna.jpg)
-代码库下载完毕后，需要先进入代码库所在的目录，再进行相应的git操作。
-
-使用git log命令浏览历史
-其中包含了commit消息和id
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgaq5h3xb8j20h609saae.jpg)
-需要注意的是，如果使用windows下的git bash，那么输入git log后，应该使用下箭头来查看超过屏幕部分的文本。用屏幕右侧的条是没有办法往下拉的。
-按住下箭头不放，就可以继续浏览之前的记录，一直到出现END样式，就是到底了。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgaqgrtj5wj20gg0kfjsa.jpg)
-按q，可以停止查看git log输出，返回之前的terminal页面（windows平台下则是仍然在同一页面，如果之前你用下箭头拉到底，那么所有的git log都会在这个窗口中有记录）
 
 查看git log中某个commit做了哪些修改，可以用git diff比较此ID和之前一条ID。
 如果输入提交 ID 的前四个或更多个字符更为轻松，则你可以这样做，而不必粘贴整个 ID，只要它们前面的这几个字符不是相同的。当然黏贴也是可以的。
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgarcb27iyj20cm069wej.jpg)
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgar7a23lkj20rh0kfjsf.jpg)
+
+
+
 
 我们还可以用git checkout临时将文件返回到任何commit时的状态,类似于恢复之前的版本。如果你使用过SVN则要注意，这和SVN的checkout不一样。在git中，checkout出一个commit是指将所有文件重置到进行commit时的状态。
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbuaqao36j20gh09374t.jpg)

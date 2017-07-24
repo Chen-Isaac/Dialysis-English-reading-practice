@@ -227,7 +227,7 @@
 	
     ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhvfplrjxij212q0qkq98.jpg)
     
-    
+      关于git checkout的更多详细内容，请参看[git checkout 命令详解](http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html)。
 	  
 	  
 	

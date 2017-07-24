@@ -199,10 +199,37 @@
 	  
 	  Mac下，如果想要退出git log查看页面，返回之前的terminal页面，可以按按键q来实现。如果是windows平台下，则git log内容和之前Git bash仍然处在同一页面，但该页面上git log内容的保留数量则取决于你查看log时用下箭头下拉涉及到的数量。
 
-	  如果想查看每次commit所更改文件的统计数据，可以使用指令：`git log --stat`。
+	  如果想查看每次commit更改文件的统计数据，可以使用指令：`git log --stat`。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhvd3by17pj215e1e0qc8.jpg)
 
+	- git checkout
+
+	  git checkout的适用范围其实相当广泛，既可以针对分枝又可以针对commit的检出。指令格式是：`git checkout commit ID/branch name`。其中commit ID可以用git log指令查看到，在不引起歧义的情况下，一般仅输入commit ID的前4位即可，否则需要输入更多的ID位数。
+	  
+	  借由git checkout指令，我们可以将repository下的所有文件重置到任一commit时的版本状态,就好像打游戏时load存档文件一样。这么一来，只要有良好的存档习惯（commit），就再也不用担心出现诸如项目在某个中间过程被改废了的情况，你可以放心大胆地在原有存档的基础上实践自己的想法。如果你使用过SVN则要注意，这和SVN的checkout不大一样。
+	  
+	  以下是用git checkout重置到某一commit版本状态的例子：
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbuaqao36j20gh09374t.jpg)
+
+	  这里我们注意到一个警告："You are in 'detached head' state…"。这里的head其实是指Git当前正工作于其上的commit，你把它理解成一个指针即可。出现该警告是因为要checkout到之前老旧的commit版本状态，所以你将它的头拆开（detach）了。Git认为这种情况值得警告的原因是，如果我们checkout了这个更早的commit并且做出了更改，那这时如果再次commit的话该commit会处在log的哪个位置呢？情况多少会变得有些复杂，所以git提供一些说明指导你如何处理这种情况。
+
+	  现在，当我检出这个更早的commit时，如果再次输入git log会发生很有趣的现象。这时，我们发现25ed变成了最新的commit，而之前更新的3条commit则完全没有显示在git log中。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbue0aftrj20nd0kh3zm.jpg)
+
+	  虽然没有显示在此刻的git log中，但之前更新的3条commit并没有被删除。我们依然可以通过之前最新的commit ID返回到最新的commit版本。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972ly1fgbum4rn23j20j60j9gml.jpg)
+
+	  那么如果你把先前最新的ID给忘了呢？也没有关系，我们可以使用指令：`git checkout --detach master`来恢复初始head所在的版本位置。
 	
-	
+    ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhvfplrjxij212q0qkq98.jpg)
+    
+    
+	  
+	  
 	
 	
 

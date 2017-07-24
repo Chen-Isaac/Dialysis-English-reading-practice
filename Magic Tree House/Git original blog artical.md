@@ -25,16 +25,6 @@ git diff与fc,diff语句类似，只不过它不是对比两个文件，而是�
 
 
 
-我们还可以用git checkout临时将文件返回到任何commit时的状态,类似于恢复之前的版本。如果你使用过SVN则要注意，这和SVN的checkout不一样。在git中，checkout出一个commit是指将所有文件重置到进行commit时的状态。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbuaqao36j20gh09374t.jpg)
-
-遇到这个奇怪的警告"You are in 'detached head' state…",head是指git当前正工作于其上的commit，你现在因为要checkout之前老旧的commit所以你将它拆开（detach）了。Git认为这种情况值得警告的原因是，如果我们checkout了这个更早的commit并且做出了更改，那这时commit的话该commit会处在历史记录的哪个位置？情况会变得有些复杂，所以git提供一些说明指导你如何处理这种情况。
-
-现在，当我检出这个更早的commit时，如果输入git log会发生很有趣的事。25ed变成了最近的commit，而之前更近的3条commit都完全没有显示在git log中。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgbue0aftrj20nd0kh3zm.jpg)
-
-现在仍然可以通过输入git checkout加上最近commit的ID返回到最近的commit。但是如果你没记住该id怎么办呢？
-![](http://ww1.sinaimg.cn/large/6ab8b972ly1fgbum4rn23j20j60j9gml.jpg)
 
 
 

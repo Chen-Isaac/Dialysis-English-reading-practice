@@ -73,7 +73,7 @@ She paced back and forth, sniffing the air.
 
 ![](http://i.telegraph.co.uk/multimedia/archive/02792/cold-air_2792257b.jpg)
 
-push off
+
 [VERB 动词] 仓促行动;慌忙前往；If you scramble to a different place or position, you move there in a hurried, awkward way. [V prep/adv]
 
 He scrambled to his feet.

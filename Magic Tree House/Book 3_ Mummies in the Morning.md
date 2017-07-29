@@ -2,6 +2,7 @@ breeze★★☆☆☆
 1[N-COUNT 可数名词] 微风；清风；A breeze is a gentle wind.
 
 A breeze swept through the woods. The leaves rattled.
+
 ![](http://www.979thebreeze.com/breeze/images/banner_reeds.jpg)
 
 [N-COUNT 可数名词] 庆祝重大日子或事件的游行行列；A parade is a procession of people or vehicles moving through a public place in order to celebrate an important day or event.
@@ -70,6 +71,7 @@ hallway★☆☆☆☆
 1[N-COUNT 可数名词] 大楼里的走廊，过道；A hallway in a building is a long passage with doors into rooms on both sides of it.
 
 Jack started down the hallway.
+
 ![](http://metexdesign.com/upload/project/31/gallery/four-seasons-hotel-sultanahmet-istanbul-5565a282026bf.jpg?w=1343&h=893&fill-to-fit=60553f)
 
 pant★☆☆☆☆

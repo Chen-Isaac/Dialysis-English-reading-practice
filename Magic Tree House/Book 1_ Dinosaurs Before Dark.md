@@ -17,6 +17,7 @@ He shoved the dinosaur book into his pack.
 [VERB 动词] (通常指用肘)轻推，轻碰(以引起注意)；If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something. [V n] [usu sing]
 
 Annie nudged him hard. Jack looked at her.
+
 ![](http://lh3.googleusercontent.com/-8K8kofshIrs/U2OnxoaZOCI/AAAAAAAAMY4/dp7dGuCwq_Q/s512/nudge-512x203.png)
 
 

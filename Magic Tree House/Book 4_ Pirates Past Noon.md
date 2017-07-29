@@ -2,6 +2,7 @@ puddle★☆☆☆☆
 1[N-COUNT 可数名词] 水坑；小坑；水洼；A puddle is a small, shallow pool of liquid that has spread on the ground. [oft N of n]
 
 They splashed through puddles.
+
 ![](https://bayintegratedmarketing.files.wordpress.com/2011/03/puddle-stomping1.jpg)
 
 cosy★★☆☆☆
@@ -63,7 +64,7 @@ cabin★★☆☆☆
 
 "Lock'em in my cabin!"Cap'n Bones ordered.
 
-![](http://www.spiritoffreedom.com.au/images/ocean-view-deluxe-cabin.jpg)
+![](https://images.r.cruisecritic.com/features/ships/9-best-inside-cabins-4.jpg)
 
 [N-COUNT 可数名词] (迅速喷出的)液流，水柱；A spout of liquid is a long stream of it which is coming out of something very forcefully.
 

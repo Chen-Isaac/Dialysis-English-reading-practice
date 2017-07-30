@@ -56,7 +56,7 @@
 
 	- 使用sublime作为执行commit，处理merge conflict等行为的编辑器。
 
-	- 配置适宜的Git push策略以及merge conflict显示策略
+	- 配置个人的用户名称和电子邮件地址，适宜的Git push策略以及merge conflict显示策略
 	
 	我们首先先来说一下，在 Windows操作系统中，应当如何设置你的工作空间，来实现上述的功能。Mac下的操作也基本类似。
 	
@@ -105,8 +105,16 @@
 		确认其应用的最终位置是：Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl。之后，同样在.bash\_profile文件中为sublime程序路径设置一个subl的别名，方便后续的快捷打开。
 
 
-	5. 配置适宜的Git push策略以及merge conflict显示策略。
-	
+	5. 配置个人的用户名称和电子邮件地址，适宜的Git push策略以及merge conflict显示策略
+
+		第一个要配置的是你个人的用户名称和电子邮件地址。这两条配置很重要，每次 Git 提交时都会引用这两条信息，说明是谁提交了更新，所以会随更新内容一起被永久纳入历史记录。具体的设置命令如下：
+		
+		git config --global user.name "你的用户名"
+		
+		git config --global user.email "你的email地址"
+		
+		更详细的内容，请参考[起步 - 初次运行 Git 前的配置](https://git-scm.com/book/zh/v1/起步-初次运行-Git-前的配置)一文。
+			
 		大部分情况我们想要做的只是Push当前的分支, 那么最适合的就是upstream。我们可以通过git config去配置采用upstream策略。具体的设置命令如下：
 	
 		git config --global push.default upstream

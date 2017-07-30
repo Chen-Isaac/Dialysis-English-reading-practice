@@ -10,38 +10,10 @@
 
 
 
-
-可以使用git diff命令来查看两个commit之间的不同
-语法：git diff commit_id1 commit_id2，That is because git diff considers the first argument as the "original", and the second argument as the "new" version, so additions are lines present in the second argument but not the first.
-git diff与fc,diff语句类似，只不过它不是对比两个文件，而是对比git中某个文件的不同版本间的差异。
-
-
-
-查看git log中某个commit做了哪些修改，可以用git diff比较此ID和之前一条ID。
-如果输入提交 ID 的前四个或更多个字符更为轻松，则你可以这样做，而不必粘贴整个 ID，只要它们前面的这几个字符不是相同的。当然黏贴也是可以的。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgarcb27iyj20cm069wej.jpg)
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgar7a23lkj20rh0kfjsf.jpg)
-
-
-
-
-
-
-
-
 第二课：
 
 使用ls -a可以查看所有文件，包括隐藏的系统文件。
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9fcxlywj20gj092gly.jpg)
-允许git init，初始化或创建新的git repository（代码库）
-这个时候，是不存在任何commit的，可以用git log来查看验证。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9hrlvuwj20gg09274q.jpg)
-也可以用git status
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9lra8ckj20gi092jrw.jpg)
-
-虽然这个时候git可以用该目录下的所有内容创建初始commit，但出于多方面的考量，它不会这么做。
-第一个原因是，你可能并不想commit目录中的所有内容。
-第二个原因是，如果git自动为你commit了，那么你也没有办法写入你自己想要的commit信息
 
 git status
 通过它可以看到上次commit后哪些文件已经被更改。
@@ -52,17 +24,6 @@ git会使用一个称为staging area的临时区域，每次可以往里添加�
 
 可以使用git status来查看我先前已经添加的内容。
 
-将文件添加到staging area的命令称为git add
-
-可以是git add +文件名（git add cake-recipe.txt）
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9u3s1plj20g801iglg.jpg)
-注意：如果文件名里头含有空格，应该用\+空格来表示，否则会提示找不到路径的。
-add后如果用git status查看，就会发现add的文件变成new file under changes to be committed。这就表示git已经将这些文件添加到了staging area。这时候如果我创建commit的话，这些文件就会被包含在内。
-
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9xwjs1tj20gg07qq34.jpg)
-
-如果你意外地将某个文件添加到暂存区中，可以使用 git reset 删除它。例如，如果你意外地添加了 lesson_2_reflections.txt，但不想提交它，请运行 git reset lesson_2_reflections.txt，此命令会从暂存区中删除该文件，但它仍在你的工作目录中。
-![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgma6lqaxij20eb0d3wev.jpg)
 
 自我们上次再次查看概念图以来，我们引入了一些新概念。
 

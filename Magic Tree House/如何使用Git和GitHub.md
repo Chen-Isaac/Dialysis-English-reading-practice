@@ -234,12 +234,81 @@
 	  那么如果你把先前最新的ID给忘了呢？也没有关系，我们可以使用指令：`git checkout --detach master`来恢复初始head所在的版本位置。
 	
     ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fhvfplrjxij212q0qkq98.jpg)
+           
+     关于git checkout的更多详细内容，请参看[git checkout 命令详解](http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html)。
     
-      关于git checkout的更多详细内容，请参看[git checkout 命令详解](http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html)。
+    - git diff
+
+     git diff与我们之前在版本对照功能中提到的FC,diff指令类似，只不过它对比的不是两个文件，而是git中不同的commit版本间相同文件的差异。具体的指令格式是：`git diff commit_id1 commit_id2`，其中commit_id可以通过之前介绍的git log指令查看，而且在不引起歧义的情况下，仅输入commit ID的前4位即可，否则需要输入更多的ID位数。
+     
+	  需要注意的是，这条指令中的第一个参数，也就是commit_id1，会被视作旧版本，而第二个参数commit_id2会被视作新版本。该语句显示的结果中，\- 代表的部分是在旧版本中有的，而在新版本中被删除的部分；\+ 代表的部分是在旧版本中没有的，而在新版本中新增的部分。
 	  
+	  以下就是对照项目asteroids中版本b067和版本f19c差别的例子：
 	  
-	
-	
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgarcb27iyj20cm069wej.jpg)
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgar7a23lkj20rh0kfjsf.jpg)
+
+	- git init
+
+	  git init指令是用来初始化，即创建新的Git repository（代码库）的。
+	  
+	  值得一提的是，这个初始化，是不会产生任何commit的。我们可以用git log指令来查看验证。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9hrlvuwj20gg09274q.jpg)
+	  
+	  通过git status指令，我们还可以看出这时候该目录下并没有任何文件被Git追踪。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9lra8ckj20gi092jrw.jpg)
+
+	  那么为什么Git不在初始化的时候不直接追踪该目录下的所有文件内容，并且创建初始的commit呢？最重要的原因恐怕是，你可能并不想commit目录下的所有文件内容，有些文件可能并不需要使用版本控制。
+	  
+	- git add
+
+	  git add指令是用来将文件添加到staging area的。
+	  
+	  这里我们有必要先来介绍一下关于working directory，staging area和repository这几个名词的概念，不然我们无法准确地理解git add，git status以及git commit这几个指令的作用。
+	  
+	  首先，working directory是指.git目录所在的目录，即你之前使用git init语句所在的目录。这个目录下的所有文件，就都处于你的working directory中。
+	  
+	  那么，staging area又是什么意思呢？staging area是一个暂存区。我们之前在介绍git init指令的时候，提到过为什么Git不在初始化的时候直接创建一个初始的commit，原因就在于，不是工作目录下的所有文件都一定要进入repository中，成为版本控制的一员的。像一些不重要的文件，我们可以不必保存他们的版本。那么如何拣选相关文件进入repository是Git所无法预知的，因此Git就创建了staging area这么一个区域，用于我们手工拣选需要进行版本控制的文件。**而我们手工拣选所需使用的指令，正是我们现在介绍的git add指令。**只有进入staging area的成员，最终才有可能进入repository。**你可以把working directory理解成平民百姓，staging area则从working directory中（通过git add指令）抓取壮丁，组成预备役部队，预备役人员经过审核（通过git status指令查看），最终可以（通过git commit指令）进入repository，成为现役部队，也就是真正版本控制中的一份子。**
+	  
+	  关于这3个名词之间的联系，可以参看下图：
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fi1vdbiv8lj21bo0p4k4k.jpg)
+	  
+	  下面我们来介绍git add指令，怎样才能通过git add指令来将文件添加到staging area。
+	  
+	  最常见的指令是：`git add +文件在working directory下的相对路径`。这里需要注意的是，如果相对路径包含的目录名或文件名中含有的空格，应该用\\+空格来表示，否则会提示找不到匹配文件的。
+	  
+	  以下例子中，被添加的文件名为git init.png，如果我们不对文件名中的空格进行处理，会出现以下错误：
+
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9u3s1plj20g801iglg.jpg)
+
+	  正确的写法应该是：`git add git\ init.png`。对文件名中的空格进行处理后，我们发现没有任何错误提示了。接下来，我们使用git status指令进行查看，就会发现之前add的文件变成new file的绿色标识，并且其上有changes to be committed的提示。这就表示Git已经将该文件添加进了staging area。这时候如果我提交git commit指令的话，该文件就顺利进入repository，成为版本控制中的一员。
+
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgm9xwjs1tj20gg07qq34.jpg)
+	  
+	  除了上面介绍的这种需要添加具体文件路径的git add方式外，还有其他一些不需要添加具体文件路径的方式。
+	  
+	  比如`git add -u`，这是将之前已经tracted到staging area的全部文件中被修改的那部分文件以及已删除文件的信息，加入staging area,但它不会处理之前untracted的文件。
+	  
+	  `git add .`，这是将working directory中的所有文件（包括之前untracted的，已经修改的）都加入到staging area，但是无法更新已经删除文件的信息。
+	  
+	  `git add -A`，这条指令等同于先后使用git add .以及git add -u这两条指令。
+	  
+	  这三者的详细差别可以参考此文：[Difference between “git add -A” and “git add .”](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
+	  	  
+	- git reset
+
+	  如果你用git status查看的时候，意外地发现自己将某个文件错误地添加到staging area中，那么这时可以使用git reset指令将它从staging area中删除。**需要注意的是这个删除并不会将该文件从working directory中删除。换言之，它只是剥夺了入预备役的资格，但并不会剥夺你的公民权，使用的时候大可放心。**
+	  
+	  git reset指令的格式为：`git reset +文件在working directory下的相对路径`。它是之前`git add +文件在working directory下的相对路径`指令的逆操作。
+	  
+	  在以下例子中，我没动脑子，不小心将文件staging area.png添加到了staging area中，用git status查看时发现了这个错误，这时我就可以用`git reset staging\ area.png`，将该文件从staging area中删除。
+	  
+	  ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgma6lqaxij20eb0d3wev.jpg)
+
 
 	
 	

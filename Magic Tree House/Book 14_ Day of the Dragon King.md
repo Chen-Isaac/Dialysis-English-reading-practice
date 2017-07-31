@@ -123,7 +123,52 @@ As the oxen started forward, the scholar turned to Jack and Annie.
 
 ![](https://qph.ec.quoracdn.net/main-qimg-71b9b4d60b1afbd50ea27e025552cf67-c)
 
-p17
+
+VERB 颠簸而行 
+If a vehicle bumps over a surface, it travels in a rough, bouncing way because the surface is very uneven.
+
+The oxcart bumped across the wooden bridge that crossed over a moat.
+
+![](https://aos.iacpublishinglabs.com/question/aq/700px-394px/front-end-car-squeak-after-going-across-bump_65d3c6d157c36a70.jpg?domain=cx.aos.ask.com)
+
+
+N-COUNT 货摊;摊位;咨询台 
+A stall is a large table on which you put goods that you want to sell, or information that you want to give people.
+
+Some people were lined up at a stall filled with tiny cages.
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Fruit_stall_at_Barcelona_market_(2929344665).jpg)
+
+
+VERB (马等)小跑;骑马小跑 
+When an animal such as a horse trots, it moves fairly fast, taking quick small steps. You can also say that the rider of the animal is trotting .
+
+The scholar snapped the reins. The oxen trotted up the stone path.
+
+![](http://departmentofsports.com/blog/wp-content/uploads/2011/09/Charlotte-Hinds-on-ATE-Extended-Trot-CADI-2011.jpg)
+ 
+
+VERB 一把抓住;迅速地夺取 
+If you snatch something or snatch at something, you take it or pull it away quickly.
+
+But she had already snatched up the bundle of bamboo strips and was charging back to them.
+
+![](http://images.askmen.com/720x540/sports/bodybuilding/best-crossfit-exercises/7-snatch-1461157928.gif)
+
+
+N-COUNT (一)堆;(一)垛 
+A mound of something is a large rounded pile of it.
+
+They jumped over the low brick wall and ran between the huge mounds of earth.
+
+![](http://www.terragalleria.com/images/korea/skor51925.jpeg)
+
+p22
+
+
+
+
+
 
 
 

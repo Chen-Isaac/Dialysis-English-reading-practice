@@ -163,11 +163,88 @@ They jumped over the low brick wall and ran between the huge mounds of earth.
 
 ![](http://www.terragalleria.com/images/korea/skor51925.jpeg)
 
-p22
 
+[N-COUNT 可数名词] 大楼里的走廊，过道；A hall in a building is a long passage with doors into rooms on both sides of it. [Mainly AM]
 
+They were in a long hall lit with oil lamps.
 
+![](https://ih1.redbubble.net/image.11963898.0117/flat,1000x1000,075,f.jpg)
 
+spooky★☆☆☆☆
+1[ADJ-GRADED 能被表示程度的副词或介词词组修饰的形容词] 阴森可怖的;闹鬼似的；A place that is spooky has a frightening atmosphere, and makes you feel that there are ghosts around. [Informal]
+
+"Wait. This is spooky," said Jack. "What is this place?"
+
+![](http://festival-collection.com/wp-content/uploads/03/Spooky-Halloween-(09).jpg)
+
+chariot★☆☆☆☆
+1[N-COUNT 可数名词] (古代的)双轮马车；In ancient times, chariots were fast-moving vehicles with two wheels that were pulled by horses.
+
+There were even life-size wooden chariots with horses.
+
+![](http://511contracosta.org/wp-content/uploads/2010/12/chariot.jpg)
+
+[VERB 动词] 跪下；跪着；When you kneel, you bend your legs so that your knees are touching the ground. [V prep/adv] [V] [V-ing] [V P]
+
+He pulled out his notebook and pencil. Then, kneeling on the brick floor, he wrote: …
+
+![](https://i.ytimg.com/vi/0sJhQ6aaVkI/maxresdefault.jpg)
+
+[N-COUNT 可数名词] 一串痕迹，足迹，踪迹；A trail is a series of marks or other signs of movement or other activities left by someone or something. [usu sing]
+
+And it was still rolling, leaving a trail of yellow thread!
+
+![](http://i.dailymail.co.uk/i/pix/2015/01/29/252A20A800000578-2931494-image-m-17_1422548411444.jpg)
+
+unroll
+1[V-ERG 及物/不及物动词] 铺开；展开；If you unroll something such as a sheet of paper or cloth, or if it unrolls, it opens up and becomes flat when it was previously rolled in a cylindrical shape. [V n] [V]
+
+Suddenly the trail of thread was gone. The ball had completely unrolled.
+
+![](http://static1.bigstockphoto.com/thumbs/9/3/1/large1500/1390223.jpg)
+
+gong★☆☆☆☆
+1[N-COUNT 可数名词] 锣；A gong is a large, flat, circular piece of metal that you hit with a hammer to make a sound like a loud bell. Gongs are sometimes used as musical instruments, or to give a signal that it is time to do something.
+
+Just then, a gong sounded.
+
+![](http://www.zoellner.de/wp-content/uploads/2015/07/Gong-500.png)
+
+[VERB 动词] (因生病或虚弱)突然倒下，昏倒；If you collapse, you suddenly faint or fall down because you are very ill or weak. [V]
+
+4[VERB 动词] (因精疲力竭而)突然坐下(或倒下)；If you collapse onto something, you sit or lie down suddenly because you are very tired. [V prep] [Also V]
+
+When they got inside the tree house, Jack collapsed.
+
+![](https://image.shutterstock.com/z/stock-photo-businessman-totally-collapsed-on-floor-with-briefcase-open-13392349.jpg)
+
+sigh★★★☆☆
+1[VERB 动词] 叹气;叹息;深呼气；When you sigh, you let out a deep breath, as a way of expressing feelings such as disappointment, tiredness, or pleasure. [V prep/adv] [V]
+
+Annie sighed happily.
+
+![](https://images.gr-assets.com/hostedimages/1388334481ra/7803817.gif)
+
+Milky Way
+1[N-PROPER 专有名词] 银河；The Milky Way is the pale strip of light consisting of many stars that you can see stretched across the sky at night. [the N]
+
+![](https://apod.nasa.gov/apod/image/0801/16500feetmilkywaykc2_brunier.jpg)
+
+raider★☆☆☆☆
+1[N-COUNT 可数名词] 抢劫犯；劫匪；Raiders are people who enter a building or place by force in order to steal something. [BRIT 英]
+
+"I'm afraid it was a very dangerous time," she said. "For Viking raiders often attacked the seacoasts."
+
+![](http://pre04.deviantart.net/dcd2/th/pre/i/2014/287/b/6/viking_raider_by_lucsalcedo-d82sap9.jpg)
+
+tomb★☆☆☆☆
+1[N-COUNT 可数名词] 坟墓;冢；A tomb is a large grave that is above ground and that usually has a sculpture or other decoration on it.
+
+"We got lost in a tomb," said Jack. "But we were saved by an ancient book."
+
+![](http://www.bible-history.com/archaeology/persia/tomb-of-cyrus-great-1.jpg)
+
+![](https://cdn.pixabay.com/photo/2015/10/16/21/46/tomb-991873_1280.jpg)
 
 
 

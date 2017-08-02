@@ -146,7 +146,46 @@ As the ships came into view, their bright sails were filled with wind and their 
 
 ![](https://gadgetflowcdn.com/wp-content/uploads/2014/08/BLAZE-Bike-Light-03.jpg)
 
-p21
+
+PHRASE 赶快;赶紧 
+If someone is told to make haste, they are told to do something quickly and not waste time.
+
+"Make haste!" he said to the other monks. "Gather the books and hide."
+
+![](http://media.gettyimages.com/photos/make-haste-picture-id537742413?s=170667a)
+
+VERB 跛行;一瘸一拐地走 
+If you hobble, you walk in an awkward way with small steps, for example because your foot is injured.
+
+He hobbled over to them, holding out his book of Irish tales.
+
+![](http://giant.gfycat.com/UglyTheseJackrabbit.gif)
+
+
+N-COUNT 鹅卵石；砾石 
+A pebble is a small, smooth, round stone which is found on beaches and at the bottom of rivers.
+
+Finally, they stepped down onto a flat strip of pebbles.
+
+![](https://thumbs.dreamstime.com/z/pebble-i-152141.jpg)
+
+
+VERB （像物体在水中飘浮似的）上下移动，起伏 
+If something bobs, it moves up and down, like something does when it is floating on water.
+
+They seemed deserted as they bobbed in the shallow waves.
+
+缺图
+
+anchor
+wade out to the ship
+pop out of
+splash
+inching along
+dip
+go slack
+
+p25 over
 
 
 

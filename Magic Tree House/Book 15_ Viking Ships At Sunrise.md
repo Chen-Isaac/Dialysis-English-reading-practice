@@ -175,17 +175,83 @@ If something bobs, it moves up and down, like something does when it is floating
 
 They seemed deserted as they bobbed in the shallow waves.
 
-缺图
+![](http://ww1.sinaimg.cn/large/6ab8b972gy1fi5obabx0yj209m079glm.jpg)
 
-anchor
-wade out to the ship
-pop out of
-splash
-inching along
-dip
-go slack
+crew★★★☆☆
+1[N-COUNT-COLL 可数集合名词] (飞机、轮船、飞船等上的)全体工作人员；The crew of a ship, an aircraft, or a spacecraft is the people who work on and operate it.
 
-p25 over
+When there was no wind, the crew would take down the sails and row with oars.
+
+![](http://media.ussportscamps.com/assets/camps/Crew/Cal-Womens-Crew-2016-5b.jpg)
+
+scarf★☆☆☆☆
+1[N-COUNT 可数名词] 围巾;头巾；A scarf is a piece of cloth that you wear round your neck or head, usually to keep yourself warm.
+
+![](https://capricesconners.files.wordpress.com/2015/05/70s-head-scarves-head-bands-for-women-2015-1.jpg)
+
+![](http://p.cdn.scarves.com/green-acrylic-rhinestone-sparkle-knit-scarf-236131-95-1600-0.jpg?id=SC236131)
+
+
+[with object and adverbial of direction] Tear or pull (something) quickly or forcibly away from something or someone.
+
+He lowered it into the water. But the current was so strong that the oar was ripped from his hands.
+
+![](https://i0.wp.com/dcworld.org.uk/wp-content/uploads/2016/08/IMG_8766.jpg?resize=466%2C508)
+
+[N-COUNT 可数名词] 鱼鳞;(爬行动物的)鳞片；The scales of a fish or reptile are the small, flat pieces of hard skin that cover its body. [usu pl]
+
+Its green scales were covered with sea slime.
+
+![](https://img.banggood.com/images/oaupload/banggood/images/A3/EF/75eaa7c9-d928-4686-8f4d-55ddc114dac8.gif)
+
+ledge★☆☆☆☆
+1[N-COUNT 可数名词] 位于山崖边向外平伸的岩架，岩脊；A ledge is a piece of rock on the side of a cliff or mountain, which is in the shape of a narrow shelf.
+
+Jack could see the tree house on the ledge above it.
+
+![](http://www.strangedangers.com/images/content/137131.jpg)
+
+steep★★☆☆☆
+1[ADJ-GRADED 能被表示程度的副词或介词词组修饰的形容词] 陡的;陡峭的;陡直的；A steep slope rises at a very sharp angle and is difficult to go up.
+
+The Vikings shouted and started down the steep stairs.
+
+![](https://st.hzcdn.com/fimgs/2461e51a003141ba_0719-w500-h666-b0-p0--modern-staircase.jpg)
+
+bits and pieces
+n.零碎； 星星点点；
+
+bits and pieces of information
+残缺的资料
+we have only bits and pieces of information ., 我们只有残缺的资料.
+
+Sadly, we have only bits and pieces of many wonderful old stories.
+
+![](https://justbitsandpieces.files.wordpress.com/2017/01/cropped-puzzle.jpg)
+
+monastery★☆☆☆☆
+1[N-COUNT 可数名词] 寺院;隐修院；A monastery is a building or collection of buildings in which monks live.
+
+"Yeah," said Jack, "in the library of the monastery."
+
+![](http://www.saintnina-monastery.org/uploads/1/4/0/0/14009064/6344807_orig.jpg)
+
+thrilled★☆☆☆☆
+1[ADJ-GRADED 能被表示程度的副词或介词词组修饰的形容词] 欣喜若狂的;非常开心的；If someone is thrilled, they are extremely pleased about something. [v-link ADJ] [v-link PHR] [emphasis]
+
+Jack was thrilled. He had always wanted to go to ancient Greece.
+
+![](http://poweritpro.com/site-files/poweritpro.com/files/uploads/2013/12/happy-man-computer.png)
+
+porch★☆☆☆☆
+1[N-COUNT 可数名词] 门廊；A porch is a sheltered area at the entrance to a building. It has a roof and sometimes has walls.
+
+The sun was rising when they got to their front porch.
+
+![](https://s-media-cache-ak0.pinimg.com/736x/33/aa/20/33aa207a1398ee59ace6b8d44f695b6d--front-porch-stairs-side-porch.jpg)
+
+
+
 
 
 

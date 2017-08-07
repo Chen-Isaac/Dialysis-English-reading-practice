@@ -151,6 +151,93 @@ The trumpet sounded again.
 
 ![](http://www.schillerinstruments.com/wp-content/uploads/2012/04/centertone-gold6.jpg)
 
-p22
+
+pigtail
+1[N-COUNT 可数名词] 辫子；If someone has a pigtail or pigtails, their hair is plaited or braided into one or two lengths.
+
+Her pigtails flew up and down as she jumped and shouted, "Go!Go!Go!"
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Braided_pigtails.jpg)
+
+![](http://www.wikihow.com/images/5/5b/Style-Scene-Pigtails-Intro.jpg)
+
+gallop★☆☆☆☆
+1[V-ERG 及物/不及物动词] 使马飞奔；使马疾驰；When a horse gallops, it runs very fast so that all four legs are off the ground at the same time. If you gallop a horse, you make it gallop. [V adv/prep] [V n prep/adv]
+
+All heads turned to watch as a huge white horse galloped out of the dust.
+
+![](https://www.gallop-magazine.com/wp-content/uploads/2017/03/Gallop-Magazine-Grand-National1-500x500.jpg)
+
+
+[VERB 动词] 马用后腿直立，暴跳；When a horse rears, it moves the front part of its body upwards, so that its front legs are high in the air and it is standing on its back legs. [V] [V P]
+
+The horse reared and pawed the air.
+
+![](http://olsonfarlow.com/wp-content/uploads/WildHorseMovieHipstamatic-026-1024x682.jpg)
+
+[VERB 动词] 用爪子抓 或扒；If an animal paws something, it draws its foot over it or down it. [V n] [V at n]
+
+The horse snorted and pawed the ground.
+
+![](http://rs1181.pbsrc.com/albums/x431/HorseLover67/Animated%20Horses/horse_108.gif~c200)
+
+sniffle
+1[VERB 动词] (哭泣或感冒时)不断抽鼻子；If you sniffle, you keep sniffing, usually because you are crying or have a cold. [V]
+
+Annie sniffled but started walking.
+
+![](https://media.giphy.com/media/3oz8xy2JYVtFWJD1kc/giphy.gif)
+
+![](https://media.giphy.com/media/3o7TKnNXIcqNbdLEli/giphy.gif)
+
+wistfully
+英 ['wɪstfəlɪ]  美 ['wɪstfəlɪ] 
+    
+adv.惆怅地，渴望地；
+
+ADJ-GRADED (因求而不得)失意的，伤感的，惆怅的
+Someone who is wistful is rather sad because they want something and know that they cannot have it.
+
+"I did," said Jack, "but girls can't do anything fun in ancient Greece."
+
+"I did one fun thing," Annie said wistfully.
+
+![](https://media.tenor.com/images/dc5a360fdd9382a941021e4b872cba1f/tenor.gif)
+
+Pegasus
+英 [ˈpeɡəsəs]  美 [ˈpɛɡəsəs] 
+n.有翼的马； 神马； 飞马； 诗兴
+
+1. (Greek mythology) immortal winged horse that sprang from the blood of the slain Medusa; was tamed by Bellerophon with the help of a bridle given him by Athena; as the flying horse of the Muses it is a symbol of high-flying imagination
+
+"Pegasus?" cried Annie. "Oh,boy!"
+
+![](http://vignette3.wikia.nocookie.net/the-legendary-moonlight-sculptor/images/f/f9/Pegasus1.jpg/revision/latest?cb=20160905204250)
+
+[N-COUNT 可数名词] 大棒;棍棒；A club is a thick heavy stick that can be used as a weapon.
+
+"Hercules is a constellation," said Morgan. "The Romans imagined him kneeling in the sky, holding a club over his head."
+
+![](http://tqsky.lamost.org/userimages/wuxian.jpg)
+
+![](https://theosteriachronicles.files.wordpress.com/2013/08/antonio_del_pollaiolo_-_hercules_and_the_hydra_no_background.png)
+
+
+farewell★★☆☆☆
+1[CONVENTION 惯用语] 同 goodbye；Farewell means the same as goodbye . [LITERARY 文] [OLD-FASHIONED 过时]
+
+![](https://media.tenor.com/images/9d1ffa242cfa6aaba507046b7402f145/tenor.gif)
+
+[VERB 动词] (光线)逐渐暗淡;(声音)逐渐减弱；When light fades, it slowly becomes less bright. When a sound fades, it slowly becomes less loud. [V] [V into n]
+
+Jack looked up at the stars again. They were beginning to fade in the growing light of dawn.
+
+![](https://media.giphy.com/media/Cw2LBPvkIn34Q/source.gif)
+
+
+
+
+
+
 
 

@@ -46,4 +46,106 @@ Teddy barked again.
 
 ![](http://studiocitync.org/wp-content/uploads/2011/11/stop-dog-barking1.jpg)
 
-p8
+ 
+N-COUNT （尤指度假时乘坐的）邮轮，客轮 
+A liner is a large ship in which people travel long distances, especially on holiday.
+
+Late at night, on April 14, 1912, an English ocean liner was making her first voyage across the Atlantic Ocean.
+
+![](http://visitcobh.com/news/wp-content/uploads/2010/02/Queen_Victoria_Liner.jpg)
+
+VERB （庞然大物或形状模糊之物）耸现，出现 
+If something looms over you, it appears as a large or unclear shape, often in a frightening way.
+
+Jack and Annie turned back to the window -- just in time to see a huge iceberg looming out of the sea.
+
+![](http://l7.alamy.com/zooms/4785c9a35166448d9a36fa7e8c0bf66b/the-island-of-boreray-and-stac-lee-and-stac-an-armin-all-part-of-the-ey09xb.jpg)
+
+N-COUNT （金属的）栏杆，围栏 
+A fence made from metal bars is called a railing or railings.
+
+Annie was standing by the ship's railing, holding Teddy.
+
+![](http://permatrak.com/Portals/94143/images/Aluminum%20Picket%20Style%20Railing.JPG)
+
+V-ERG 喷出；涌出；冒出 
+When liquid gushes out of something, or when something gushes a liquid, the liquid flows out very quickly and in large quantities.
+
+Suddenly, steam gushed out of the ship's smokestacks.
+
+![](http://www.people.com.cn/mediafile/pic/20110419/10/4760035401561796486.jpg)
+
+ 
+VERB （步子小而轻地）奔跑，疾走;蹦蹦跳跳 
+When people or small animals scamper somewhere, they move there quickly with small, light steps.
+
+The little dog scampered after them.
+
+![](http://cdn.mspaintadventures.com/storyfiles/hs2/04655.gif)
+
+N-UNCOUNT 危难;危急;危险 
+Distress is the state of being in extreme danger and needing urgent help.
+
+An SOS is the international distress signal in Morse code.
+
+![](http://images.fineartamerica.com/images-medium-large/damsel-in-distress-1913-granger.jpg)
+
+![](http://www.todayifoundout.com/wp-content/uploads/2014/03/distress.jpg)
+
+
+deck hand 
+
+英 [dek hænd]   美 [dɛk hænd]   
+
+释义 
+甲板人员； 
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0c/A_deck_hand_loops_a_manila_line,_ca._1941_-_ca._1945_-_NARA_-_535849.jpg)
+
+
+ADJ-GRADED 光滑的；有光泽的 
+Glossy means smooth and shiny.
+
+They were at the top of the empty grand stairway. It was beautiful. It was made of dark, glossy wood.
+
+![](http://www.andrewmuggleton.com/images/WoodFinishes/Macassar-Gloss-Angle-400H.jpg)
+
+N-COUNT (客轮上的)房舱，特等客舱 
+On a passenger ship, a stateroom is a private room, especially one that is large and comfortable.
+
+"These are the staterooms," he said.
+
+![](http://www.charterworld.com/news/wp-content/uploads/2011/11/Luxury-Expedition-Yacht-STAR-FISH-Owners-Stateroom-Aquos-Series-Yacht.jpg)
+
+![](http://otn.offtoneverlandtr.netdna-cdn.com/wp-content/uploads/2011/04/Disney-Dream-77.jpg)
+
+
+open deck 
+英 [ˈəupən dek]   美 [ˈopən dɛk]   
+
+释义 
+露天甲板； 
+
+They crossed the third-class open deck, where more people were standing.
+
+![](http://images.oyster.com/photos/open-deck--v6306119-cc-720.jpg)
+
+N-COUNT （酒店、俱乐部或其他公共场所的）休息厅，休息室 
+In a hotel, club, or other public place, a lounge is a room where people can sit and relax.
+
+"The people from this hallway must be the ones up near the lounge," said Jack.
+
+![](http://insideevs.com/wp-content/uploads/2013/10/SP_the_aft_lounge_03.jpg)
+
+ 
+N-COUNT (尤指脸上的)雀斑，色斑 
+Freckles are small light brown spots on someone's skin, especially on their face
+
+She had red hair and freckles, too.
+
+![](http://mylighterskin.com/wp-content/uploads/2014/08/freckle-removal.jpg)
+
+p20
+
+
+

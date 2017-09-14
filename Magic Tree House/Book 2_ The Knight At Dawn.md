@@ -22,6 +22,8 @@ He crawled through a hole in the floor and took off his backpack.
 
 [ADJ-GRADED 能被表示程度的副词或介词词组修饰的形容词] 很小的;极小的；If you describe something as teeny, you are emphasizing that it is very small. [ADJ n] [emphasis] [Informal]
 
+![](http://farm9.staticflickr.com/8006/7500666720_62172a1621_o.jpg)
+
 "I'm going to take a peek. A teeny peek," she said.
 
 

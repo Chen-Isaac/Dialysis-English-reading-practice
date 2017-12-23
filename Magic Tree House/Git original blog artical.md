@@ -55,9 +55,12 @@ git commit之前，可以用git status看看staging area里还有什么内容。
 
 场景：有时候我修改保存完文件后，尚未add，就去吃饭了，休息了，忘了commit。回来不记得之前更改啥了。
 更改index.js：
+
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgoenxu198j20gb05laa8.jpg)
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgodagmepbj20i60evwfm.jpg)
+
 git diff 不加任何参数，就可以对比工作目录（working directory）和staging area，这可以显示你所做的任何更改且未添加到staging area。
+
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgod04nl5wj20gk0chwey.jpg)
 如果我把文件game.js里的变更添加到staging area，那么再次运行git diff，发现这次只能看到index.js的更改了。因为game.js在staging area和working directory里是一样的了。
 ![](http://ww1.sinaimg.cn/large/6ab8b972gy1fgod6u1grvj20ij0it0tm.jpg)

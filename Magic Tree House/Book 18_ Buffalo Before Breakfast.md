@@ -105,5 +105,29 @@ She will sew on hawk feathers, elk teeth, and porcupine quills, too.
 
 ![](http://wac.450f.edgecastcdn.net/80450F/q103albany.com/files/2014/01/Porcupine-Walking-credit-iStock-177703348-630x416.jpg)
 
-p15
+###snarl
 
+(VERB) (动物)露齿咆哮，嗥叫 When an animal snarls, it makes a fierce, rough sound in its throat while showing its teeth.
+
+Teddy snarled and barked.
+
+![](http://img05.deviantart.net/7286/i/2014/021/b/c/snarling_tiger_by_yankeestyle94-d734v2d.png)
+
+###slit
+
+(N-COUNT) 狭缝 A slit is a long narrow opening in something.
+
+His head came out through a slit near the wolf's neck.
+
+![](http://www.tattooartists.org/Images/FullSize/000141000/Img141318_IMG_0132.JPG)
+
+###whoop
+
+VERB (高兴地)大喊，大叫
+If you whoop, you shout loudly in a very happy or excited way.
+
+He let out a wild whoop, and Sunlight took off like the wind. The whoop made Jack feel braver.
+
+![](http://fc05.deviantart.net/fs71/f/2010/129/1/2/Shoop_da_whoop_mug_by_Inazuma_Raimei.png)
+
+p18 p100

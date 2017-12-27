@@ -89,7 +89,7 @@ Ahead of them, the people at the campsite had stopped what they were doing.
 
 ![](http://www.sca.org.au/del/pennsic30/campsite.jpg)
 
-###graze
+###Pasture
 
 (N-VAR) 牧场；牧草地 Pasture is land with grass growing on it for farm animals to eat.
 
@@ -130,4 +130,102 @@ He let out a wild whoop, and Sunlight took off like the wind. The whoop made Jac
 
 ![](http://fc05.deviantart.net/fs71/f/2010/129/1/2/Shoop_da_whoop_mug_by_Inazuma_Raimei.png)
 
-p18 p100
+###graze
+
+[V-ERG 及物/不及物动词] 动物吃青草；放牛；放羊；放牧；When animals graze or are grazed, they eat the grass or other plants that are growing in a particular place. You can also say that a field is grazed by animals. [V] [be V-ed] [V n] [V -ing]
+
+Black Hawk looked silently at the grazing buffalo.
+
+![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/beef-cattle-grazing-in-pasture-inga-spence.jpg)
+
+###stampede
+
+[N-COUNT 可数名词] (人群的)蜂拥，狂奔;(动物的)惊逃，乱窜；If there is a stampede, a group of people or animals run in a wild, uncontrolled way. [usu sing]
+
+If one becomes alarmed by a hunter, he might start running and set off a terrifying stampede.
+
+![](https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/11/14/104106169-GettyImages-888386-001r.530x298.jpg?v=1490031712)
+
+![](http://cdn.telecomtv.com/assets/telecomtv/stampede-1082.jpg?w=970)
+
+###slide
+
+[V-ERG 及物/不及物动词] 滑动;溜；When something slides somewhere or when you slide it there, it moves there smoothly over or against something. [V n with adj] [V n prep/adv] [V prep/adv] [Also V]
+
+She slid off her pony and ran after Teddy.
+
+![](https://media-cdn.tripadvisor.com/media/photo-s/02/2e/20/5b/water-slide-off-the-east.jpg)
+
+###nudge
+
+[VERB 动词] (通常指用肘)轻推，轻碰(以引起注意)；If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something. [V n] [usu sing]
+
+"Go to Black Hawk!" he said, nudging Sunlight with his knees.
+
+![](http://sueamsterdam.com/wp-content/uploads/2016/05/nudge.png)
+
+###trail
+
+[VERB 动词] 跟踪;追踪;追猎；If you trail someone or something, you follow them secretly, often by finding the marks or signs that they have left. [V n] [V n prep/adv]
+
+Then he rode down toward Annie. Jack followed. Annie's pony trailed behind.
+
+![](http://mymedellin.com/photofilepersonal/HorseTrail1.JPG)
+
+###scoop
+
+[VERB 动词] (敏捷地)抱起，拿起，捡起,拽过来；If you scoop a person or thing somewhere, you put your hands or arms under or round them and quickly move them there. [V n prep/adv] [Also V n]
+
+Annie scooped him up. Teddy licked her face all over.
+
+![](http://m.raisingchildren.net.au/verve/_resources/PIP-Handling_holding-NEW-Fr3.gif)
+
+stern★★☆☆☆
+1[ADJ-GRADED 能被表示程度的副词或介词词组修饰的形容词] (话语或行动)严厉的，严正的；Stern words or actions are very severe.
+
+"Let this be a lesson to you," Grandmother said sternly.
+
+![](http://buzzsouthafrica.com/wp-content/uploads/johann-rupert.png)
+
+###chant
+
+[VERB 动词] 吟诵(经文);念经；If you chant or if you chant something, you sing a religious song or prayer. [V] [V n]
+
+The chanting and drumbeats grew louder and louder.
+
+![](http://communio.stblogs.org/wp-content/uploads/2016/05/Norcia-monks-chanting.jpg)
+
+###snuggle
+
+[VERB 动词] (尤指靠近另一人)依偎，舒适地蜷卧；If you snuggle somewhere, you settle yourself into a warm, comfortable position, especially by moving closer to another person. [V adv/prep]
+
+Teddy snuggled between them.
+
+![](http://www.snuggleparty.org/wp-content/uploads/2014/05/snuggle-cuddle-elephant-seals.jpg?6a3ee3)
+
+###strap
+
+[VERB 动词] 用带子系(或绑、捆、扎)；If you strap something somewhere, you fasten it there with a strap. [V n prep] [V n with on/in/down]
+
+They were loading them onto wooden platforms strapped to two poles. The poles were pulled by horses.
+
+![](http://c8.alamy.com/comp/BHN8FC/medicine-narcosis-patient-strapped-on-operation-chair-1873-1870s-19th-BHN8FC.jpg)
+
+###tilt
+
+[VERB 动词] (略微)倾侧(身体部位)，仰头，把头歪向一边；If you tilt part of your body, usually your head, you move it slightly upwards or to one side. [V n with adv] [V n prep] [V n] [usu sing]
+
+Teddy tilted his head and gave Jack a wise look.
+
+![](https://image.shutterstock.com/z/stock-photo-man-in-blue-dress-shirt-with-his-head-tilted-to-the-side-with-a-questioning-look-on-his-face-3237935.jpg)
+
+###gust
+
+[VERB 动词] 猛刮；劲吹；When the wind gusts, it blows with short, strong, sudden rushes. [V] [V prep/adv]
+
+As they started for home, a wind gusted through the trees.
+
+![](http://moziru.com/images/breeze-clipart-gust-wind-14.gif)
+
+![](http://www.weatherquestions.com/gust_front.gif)
+
